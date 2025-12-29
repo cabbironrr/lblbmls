@@ -1,0 +1,89 @@
+/* This is a CSS file */
+/* Here's a commenting shortcut: command+/ */
+
+
+/* Practicing color and background-color */
+
+
+
+/* 
+p>a:link    {color:coral;}
+p>a:visited {color:green;}
+p>a:hover   {color:red;}
+p>a:active  {color:yellow;}
+
+*/
+
+body {
+    
+    color: white;
+    background-color:seagreen;
+    border-color: brown;
+    color
+    
+}
+
+
+
+
+
+
+
+
+/*
+body {
+	background-color:seagreen;
+	color: white;
+}
+
+#rongyu{
+	background-color:seagreen;
+}
+
+.colorSection {
+	color: white;
+    background-color: black;
+}
+
+h2 {
+	color:yellow;
+}
+
+*/
+
+
+
+/* Practicing width and margin */
+/*main {
+	width: 90%;
+	margin: 0 auto;
+}*/
+
+
+
+
+
+/* Practicing anchor styling */
+
+/*a {
+	color: red;
+}
+
+a:hover {
+	color: purple;
+}
+
+a:visited {
+	color: gray;
+}*/
+
+
+
+/*Other CSS Properties to try out*/
+
+/*p {
+	font-weight: 700;
+	font-style: italic;
+	line-height: 1.5;
+}*/
+
